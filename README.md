@@ -60,7 +60,7 @@ It allows filtering by customer type, time period (year, quarter, month), produc
 
 ## Preview
 
-![Dashboard Preview](Screenshot.png)
+![Dashboard Preview](Screenshot.png.png)
 
 ---
 
