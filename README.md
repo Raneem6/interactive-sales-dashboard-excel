@@ -1,43 +1,44 @@
 # Interactive Excel Sales Dashboard
 
-An interactive Excel dashboard designed to monitor sales KPIs and explore customer, product, time, return, delivery, and geographic performance.
+Interactive Excel reporting project designed to monitor sales KPIs and explore customer, product, time, return, delivery, and geographic performance.
 
-![Interactive sales dashboard preview](Screenshot.png.png)
+![Dashboard preview](Screenshot.png.png)
 
-## Objective
+## Project Overview
 
-Build a practical Excel reporting experience that combines KPI monitoring with flexible drill-down analysis through slicers, PivotTables, and charts.
+This dashboard combines KPI monitoring with drill-down analysis to create a practical business-reporting experience directly in Excel.
 
-## KPIs and analysis
+## KPIs & Analysis
 
 - Total sales
 - Total units sold
 - Distinct customers
 - Number of cities and products
-- Customer type breakdown
+- Customer-type breakdown
 - Year, quarter, and month analysis
 - Product and state filtering
 - Returned sales and returned units
 - Delayed-order monitoring
 - U.S. state sales map
 
-## Tools and techniques
+## Tools & Skills
 
-- Microsoft Excel
-- PivotTables and slicers
-- Charts and map visualization
-- Conditional formatting
-- KPI dashboard design
+**Microsoft Excel** · **PivotTables** · **Slicers** · **Charts** · **Map Visualization** · **Conditional Formatting** · **KPI Dashboard Design**
 
-## Files
+## Repository Files
 
-- `interactive-sales-dashboard-excel.xlsx` — interactive dashboard and data
+- `interactive-sales-dashboard-excel.xlsx` — interactive dashboard and supporting data
 - `Screenshot.png.png` — dashboard preview
 
-## Project note
+## How to Explore
 
-The project uses sample data for portfolio and learning purposes and demonstrates interactive Excel reporting and dashboard development.
+Download the workbook, open it in Microsoft Excel, and use the available slicers and dashboard controls to explore the analysis.
+
+## Portfolio Note
+
+This project uses sample data for portfolio and learning purposes and demonstrates interactive Excel reporting and dashboard development.
 
 ## Author
 
-Raneem Alzahrani · [LinkedIn](https://www.linkedin.com/in/raneem-alzhrani-/) · [Portfolio](https://sites.google.com/view/raneemalzahrany/home)
+**Raneem Alzahrani**  
+[LinkedIn](https://www.linkedin.com/in/raneem-alzhrani-/) · [Portfolio](https://sites.google.com/view/raneemalzahrany/home) · [GitHub](https://github.com/Raneem6)
